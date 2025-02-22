@@ -1,0 +1,492 @@
+[
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.022723, 30.299045],
+        [120.346887, 30.318832]
+      ]
+    },
+    "properties": {
+      "flow": 450,
+      "from": "仓前校区",
+      "to": "下沙校区",
+      "type": "直达班车",
+      "duration": 60
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.346887, 30.318832],
+        [120.022723, 30.299045]
+      ]
+    },
+    "properties": {
+      "flow": 380,
+      "from": "下沙校区",
+      "to": "仓前校区",
+      "type": "直达班车",
+      "duration": 60
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.022723, 30.299045],
+        [120.171387, 30.249298],
+        [120.346887, 30.318832]
+      ]
+    },
+    "properties": {
+      "flow": 320,
+      "from": "仓前校区",
+      "to": "下沙校区",
+      "type": "地铁换乘",
+      "duration": 90
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.346887, 30.318832],
+        [120.171387, 30.249298],
+        [120.022723, 30.299045]
+      ]
+    },
+    "properties": {
+      "flow": 280,
+      "from": "下沙校区",
+      "to": "仓前校区",
+      "type": "地铁换乘",
+      "duration": 90
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.022723, 30.299045],
+        [120.214458, 30.252436],
+        [120.346887, 30.318832]
+      ]
+    },
+    "properties": {
+      "flow": 180,
+      "from": "仓前校区",
+      "to": "下沙校区",
+      "type": "公交换乘",
+      "duration": 120
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.346887, 30.318832],
+        [120.214458, 30.252436],
+        [120.022723, 30.299045]
+      ]
+    },
+    "properties": {
+      "flow": 150,
+      "from": "下沙校区",
+      "to": "仓前校区",
+      "type": "公交换乘",
+      "duration": 120
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.022723, 30.299045],
+        [120.293791, 30.310602],
+        [120.346887, 30.318832]
+      ]
+    },
+    "properties": {
+      "flow": 220,
+      "from": "仓前校区",
+      "to": "下沙校区",
+      "type": "经东站换乘",
+      "duration": 100
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.346887, 30.318832],
+        [120.293791, 30.310602],
+        [120.022723, 30.299045]
+      ]
+    },
+    "properties": {
+      "flow": 190,
+      "from": "下沙校区",
+      "to": "仓前校区",
+      "type": "经东站换乘",
+      "duration": 100
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.149506, 30.242086],
+        [120.214458, 30.252436]
+      ]
+    },
+    "properties": {
+      "flow": 1200,
+      "from": "西湖景区",
+      "to": "武林商圈"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.149506, 30.242086],
+        [120.208775, 30.258225]
+      ]
+    },
+    "properties": {
+      "flow": 1100,
+      "from": "西湖景区",
+      "to": "湖滨商圈"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.169871, 30.258624],
+        [120.182768, 30.266195]
+      ]
+    },
+    "properties": {
+      "flow": 950,
+      "from": "城西银泰",
+      "to": "黄龙商圈"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.214458, 30.252436],
+        [120.182768, 30.266195]
+      ]
+    },
+    "properties": {
+      "flow": 1300,
+      "from": "武林商圈",
+      "to": "黄龙商圈"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.176691, 30.277113],
+        [120.214458, 30.252436]
+      ]
+    },
+    "properties": {
+      "flow": 880,
+      "from": "浙大紫金港",
+      "to": "武林商圈"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.194458, 30.180975],
+        [120.211297, 30.206792]
+      ]
+    },
+    "properties": {
+      "flow": 780,
+      "from": "滨江宝龙城",
+      "to": "滨江区"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.293791, 30.310602],
+        [120.399364, 30.319904]
+      ]
+    },
+    "properties": {
+      "flow": 920,
+      "from": "杭州东站",
+      "to": "钱江新城"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.293791, 30.310602],
+        [120.346887, 30.318832]
+      ]
+    },
+    "properties": {
+      "flow": 850,
+      "from": "杭州东站",
+      "to": "下沙校区"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.161892, 30.275992],
+        [120.176691, 30.277113]
+      ]
+    },
+    "properties": {
+      "flow": 760,
+      "from": "文三路商圈",
+      "to": "浙大紫金港"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.132551, 30.268235],
+        [120.169871, 30.258624]
+      ]
+    },
+    "properties": {
+      "flow": 680,
+      "from": "西溪湿地",
+      "to": "城西银泰"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.168657, 30.242982],
+        [120.149506, 30.242086]
+      ]
+    },
+    "properties": {
+      "flow": 1500,
+      "from": "断桥残雪",
+      "to": "西湖景区"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.155073, 30.233359],
+        [120.149506, 30.242086]
+      ]
+    },
+    "properties": {
+      "flow": 1400,
+      "from": "雷峰塔",
+      "to": "西湖景区"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.214458, 30.252436],
+        [120.293791, 30.310602]
+      ]
+    },
+    "properties": {
+      "flow": 1100,
+      "from": "武林商圈",
+      "to": "杭州东站"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.208775, 30.258225],
+        [120.399364, 30.319904]
+      ]
+    },
+    "properties": {
+      "flow": 890,
+      "from": "湖滨商圈",
+      "to": "钱江新城"
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.155069, 30.274085],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 1200,
+      "from": "西湖",
+      "to": "杭州东站",
+      "type": "旅游线路",
+      "duration": 30
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.198307, 30.187517],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 800,
+      "from": "浙江大学紫金港校区",
+      "to": "杭州东站",
+      "type": "校园线路",
+      "duration": 40
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.171125, 30.302561],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 950,
+      "from": "杭州火车站",
+      "to": "杭州东站",
+      "type": "交通枢纽",
+      "duration": 25
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.195946, 30.266037],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 1100,
+      "from": "武林广场",
+      "to": "杭州东站",
+      "type": "商圈",
+      "duration": 20
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.161693, 30.257284],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 700,
+      "from": "河坊街",
+      "to": "杭州东站",
+      "type": "景点",
+      "duration": 35
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.219375, 30.259244],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 850,
+      "from": "万象城",
+      "to": "杭州东站",
+      "type": "购物中心",
+      "duration": 15
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.134338, 30.259722],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 650,
+      "from": "浙江大学玉泉校区",
+      "to": "杭州东站",
+      "type": "校园线路",
+      "duration": 40
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.099724, 30.277252],  
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 500,
+      "from": "灵隐寺",
+      "to": "杭州东站",
+      "type": "景点",
+      "duration": 50
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.21062, 30.20652],    
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 750,
+      "from": "滨江区政府",
+      "to": "杭州东站",
+      "type": "行政中心",
+      "duration": 30
+    }
+  },
+  {
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [120.27901, 30.304987],   
+        [120.21201, 30.266597]    
+      ]
+    },
+    "properties": {
+      "flow": 600,
+      "from": "杭州师范大学",
+      "to": "杭州东站",
+      "type": "校园线路",
+      "duration": 35
+    }
+  }
+]
